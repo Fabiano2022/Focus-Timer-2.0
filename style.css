@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background: white;
+    color: black;
+
+    font-family: 'Roboto', sans-serif;
+
+    display: grid;
+    min-height: 100vh;        
+}
+
+.hide {
+    display: none;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+#controls1 {
+    text-align: center;
+}
+
+#timer {
+    display: flex;
+
+    font-size: 12.6rem;
+    line-height: 14.8rem;       
+
+    color: #323238;
+    
+    margin-bottom: 4.8rem;
+}
+
+#buttons {    
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#controls2 .cards {   
+   display: grid;
+   grid-template-columns: 200px 200px;
+   gap: 3.2rem; 
+
+   }
+
+button {
+    background-color: transparent;
+    border: none;
+
+    cursor: pointer;    
+}
+
+input {
+    cursor: pointer;
+    font-size: 17px;
+    background-color: rgb(122, 65, 122);
+    border: 1px solid purple;
+    height: 50px;
+    color: white;      
+    border-radius: 50px;
+    transition: 0.5s;
+          
+}
+input:hover {
+    background-color: white;
+    color: purple;
+}
+
+
+
+
+
+
+
+
+
+
