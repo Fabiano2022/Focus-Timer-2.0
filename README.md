@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-[Visite o projeto online] () 
+[Visite o projeto online] (https://fabiano2022.github.io/Focus-Timer-2.0/) 
 
 
 ## 🔖 Layout
