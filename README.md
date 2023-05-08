@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1182751789348533739](https://www.figma.com/file/5RFxxxX7ntCPQZmxcCZWQm/Stage-05---Focus-Timer-2.0-(Copy)?type=design&node-id=0-1&t=gfx0R946tgy69bZr-0)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/5RFxxxX7ntCPQZmxcCZWQm/Stage-05---Focus-Timer-2.0-(Copy)?type=design&node-id=0-1&t=gfx0R946tgy69bZr-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
