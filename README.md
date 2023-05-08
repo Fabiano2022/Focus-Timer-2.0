@@ -38,13 +38,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 •	Dispara um som de alarme quando a contagem chega a zero;
 
-•	E reseta a contagem para o último valor programado;
+•	Reseta a contagem para o último valor programado;
 
 •	Dispõe da função de tocar/pausar um de quatro possíveis sons de fundo enquanto o site estiver aberto;
 
-•	Cada card de som possuí um controle de volume para o som ativo;
-
-•	Além disso, é possível trocar o tema da aplicação entre as opções claro ou escuro.
 
 
 [Visite o projeto online] () 
